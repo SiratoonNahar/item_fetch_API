@@ -39,10 +39,10 @@ This is a single-page React application that fetches and displays a list of stor
 ## Installation and Setup
  
 1. Clone the repository:
-   git clone <repo-url>
+   git clone repo-url
 2. Navigate into the project folder:
 
-cd <project-folder>
+  cd project-folder
 
 3. Install the dependencies:
 
